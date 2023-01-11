@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673478314 source:c:\users\user\desktop\yeni klasör\matris.ödevibir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
