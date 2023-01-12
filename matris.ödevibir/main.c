@@ -82,4 +82,4 @@ int main()
 
     return 0;
 }
-//çalýþmýyor hatayý bulamadým :/
+//düzgün çalýþmýyor hatayý bulamadým :/
